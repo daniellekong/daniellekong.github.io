@@ -46,7 +46,7 @@
 .main-container{
   color: rgba(36,62,255,1);
   font-family: 'Karla','Avenir', sans-serif;
-  margin-top: 1%;
+  margin-top: 2%;
   min-height: 75vh;
   margin-bottom: 2%;
 }
@@ -106,4 +106,34 @@
   }
 }
 
+.experience-grid{
+  margin-top: 2%;
+  margin-bottom: 5%;
+  color: #060684;
+}
 
+.experience-grid .row{
+  border-bottom: 1px dotted #060684;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.experience-right{
+  width: 100%;
+  display: inline;
+  text-align: right;
+}
+
+@media (max-width: 767px){
+  .experience-grid{
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+}
+
+#about-photo{
+  max-height: 50vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
