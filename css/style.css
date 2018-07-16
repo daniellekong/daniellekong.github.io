@@ -10,7 +10,7 @@
   -webkit-background-size: 35px 35px;
   -moz-background-size: 35px 35px;
   background-size: 35px 35px;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
 }
 
@@ -47,7 +47,7 @@
   color: rgba(36,62,255,1);
   font-family: 'Karla','Avenir', sans-serif;
   margin-top: 2%;
-  min-height: 65vh;
+  min-height: 75vh;
   margin-bottom: 2%;
 }
 
@@ -147,5 +147,3 @@
   margin-top: 150px;
   color: #000;
 }
-
-
