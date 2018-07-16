@@ -47,7 +47,7 @@
   color: rgba(36,62,255,1);
   font-family: 'Karla','Avenir', sans-serif;
   margin-top: 2%;
-  min-height: 75vh;
+  min-height: 65vh;
   margin-bottom: 2%;
 }
 
@@ -138,3 +138,14 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.index-content{
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  color: #000;
+}
+
+
