@@ -133,6 +133,7 @@
 
 #about-photo{
   max-height: 50vh;
+  max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
