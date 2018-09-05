@@ -140,13 +140,20 @@
 }
 
 .index-content{
-  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  min-height: 75vh;
+}
+
+.index-item{
+  max-width: 100%;
+}
+
+.index-description{
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 125px;
-  margin-bottom: 125px;
-  color: #000;
+  margin-top: 0.5rem;
 }
 
 .bottompadding{
